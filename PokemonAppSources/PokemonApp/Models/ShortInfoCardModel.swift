@@ -1,5 +1,5 @@
 //
-//  ShortInfoCardModel.swift.swift
+//  ShortInfoCardModel.swift
 //  PokemonApp
 //
 //  Created by Egor Dubovik on 04/10/2023.
